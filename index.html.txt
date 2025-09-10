@@ -1,1 +1,10 @@
-<h1>Hello Pajcy</h1>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to Pajcy</title>
+</head>
+<body>
+  <h1>Welcome princey to pajcy 🎉</h1>
+  <p>More content coming soon...</p>
+</body>
+</html>
