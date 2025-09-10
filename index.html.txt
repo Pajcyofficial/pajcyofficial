@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to Pajcy</title>
+</head>
+<body>
+  <h1>Welcome to Pajcy T-Shirts</h1>
+  <p>This is my first website hosted on GitHub Pages!</p>
+</body>
+</html>
